@@ -18,6 +18,7 @@ public class Software {
         // TODO code application logic here
         
         System.out.println("por fin");
+        System.out.println("demasiado tiempo perdido");
     }
     
 }
